@@ -1,0 +1,1 @@
+fichero que tiene que ser ignorado 2
