@@ -1,1 +1,1 @@
-Prueba 2
+Añado contenido en el archivo prueba2.txt
